@@ -2,7 +2,6 @@
 - 👀 I’m interested in veteran mental health!
 - 🌱 I’m currently learning to build a startup!
 - 💞️ I’m looking to collaborate on conversational AI!
-- 📫 How to reach me ...
 
 <!---
 apark0102/apark0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
